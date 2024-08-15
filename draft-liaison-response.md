@@ -62,7 +62,7 @@ This would, as your liaison indicated, potentially be a traffic impacting change
 
 Regarding 1.2.2 SystemCreated Classes:
 
-The system datastore defined in [1] provides a similar, but slightly different solution to the problem described by SystemCreated Classes.  That datastore allows for system defined configuration to be   
+The system datastore defined in [1] provides a similar, but slightly different solution to the problem described by SystemCreated Classes in your letter.  The NETMOD WG believes that that this draft could provide a solution for your problems, whilst preserving NETCONF/YANGs transactional behavior.  Hence, the NETMOD WG asks for 3GPP-TSG-SA-WG5 to review and provide comments on this solution.
 
 We looking forward to hearing back from you,
 Kent and Lou
